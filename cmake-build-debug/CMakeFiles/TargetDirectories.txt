@@ -1,0 +1,3 @@
+/Users/mohammadamin/CLionProjects/224/cmake-build-debug/CMakeFiles/224.dir
+/Users/mohammadamin/CLionProjects/224/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohammadamin/CLionProjects/224/cmake-build-debug/CMakeFiles/rebuild_cache.dir
